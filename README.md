@@ -32,5 +32,5 @@ Dense | (None, 1) | 65
 
 
 ## Graphs
-- ![image]("https://drive.google.com/file/d/1Er7Xx-nNMp7dGUNNfH6YhI7-vcK-02l5/view?usp=sharing")
-- ![image]("https://drive.google.com/file/d/1Byw_9-ClxrttLN2Ph1Ftr3i-uQUzUuTm/view?usp=sharing")
+- ![image](https://drive.google.com/file/d/1Er7Xx-nNMp7dGUNNfH6YhI7-vcK-02l5/view?usp=sharing)
+- ![image](https://drive.google.com/file/d/1Byw_9-ClxrttLN2Ph1Ftr3i-uQUzUuTm/view?usp=sharing)
