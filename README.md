@@ -1,7 +1,7 @@
 # Gender_Classification
 ### A sequential Convolutional Neural Network (CNN) using the Keras library with a TensorFlow backend which can differentiate between male and female 
 
-This model was trained on [Gender Classification Dataset](https://www.kaggle.com/datasets/cashutosh/gender-classification-dataset) dataset from kaggle
+This model was trained on [Gender Classification Dataset](https://www.kaggle.com/datasets/cashutosh/gender-classification-dataset) dataset from kaggle.
 
 Link to the [pretrained model](https://drive.google.com/file/d/18Ja8LZlxgwcf2epPdJkrSSjfGr8SPErK/view?usp=sharing)
 
@@ -32,5 +32,5 @@ Dense | (None, 1) | 65
 
 
 ## Graphs
-- ![image](https://github.com/Kunal926/Gender_Classification/blob/main/07155940.png?raw=true)
-- ![image](https://github.com/Kunal926/Gender_Classification/blob/main/07155951.png?raw=true)
+- ![image](https://github.com/Kunal926/Gender_Classification/blob/main/0.png?raw=true)
+- ![image](https://github.com/Kunal926/Gender_Classification/blob/main/1.png?raw=true)
