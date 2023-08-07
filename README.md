@@ -32,5 +32,5 @@ Dense | (None, 1) | 65
 
 
 ## Graphs
-- ![image]("https://rawgithubusercontent.com/Kunal926/Gender_Classification/blob/main/Screenshot 202023-08-07 155940.png")
-- ![image]("https://rawgithubusercontent.com/Kunal926/Gender_Classification/blob/main/Screenshot 202023-08-07 155951.png")
+- ![image](https://github.com/Kunal926/Gender_Classification/blob/main/155940.png?raw=true)
+- ![image](https://github.com/Kunal926/Gender_Classification/blob/main/155951.png?raw=true)
