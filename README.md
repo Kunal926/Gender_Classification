@@ -32,5 +32,5 @@ Dense | (None, 1) | 65
 
 
 ## Graphs
-- ![image]("C:\Users\Kunal\Pictures\Screenshots\Screenshot 2023-08-07 155940.png")
-- ![image]("C:\Users\Kunal\Pictures\Screenshots\Screenshot 2023-08-07 155951.png")
+- ![image](Screenshot 2023-08-07 155940.png)
+- ![image](Screenshot 2023-08-07 155951.png)
